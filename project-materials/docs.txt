@@ -1,0 +1,8 @@
+https://www.themoviedb.org/
+https://firebase.google.com/docs/auth/web/start
+https://github.com/dykyys/bc-34/blob/qna-04/src/js/pagination/index.js
+https://www.youtube.com/watch?v=ndNWcZko64s
+https://www.youtube.com/watch?v=KS2ngnRAKlg
+https://www.youtube.com/watch?v=ndNWcZko64s
+https://github.com/dykyys/bc-34/tree/qna-04
+
